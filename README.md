@@ -2,7 +2,6 @@
 
 100 DSA interview problems with solutions
 
-![](https://mrsohan.netlify.app/static/media/work9.2ca549284563f79a8204.png)
 
 ## Introduction
 
